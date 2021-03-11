@@ -1,0 +1,43 @@
+.form-title-underline {
+  position: relative;
+}
+
+.form-title-underline:after {
+  content: "";
+  width: 100px;
+  height: 1px;
+  margin: auto;
+  position: absolute;
+  top: 39px;
+  left: 0;
+  right: 0;
+  background-color: #eb0732;
+}
+
+/* .verifyFrom *{ display: inline-block; margin: 20px;  width: ;} */
+
+.form-inline {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.form-inline input {
+  width: 60px !important;
+
+  height: 43px !important;
+
+  border-radius: 5px !important;
+
+  border: solid 1px #cfcfcf !important;
+
+  background-color: #ffffff !important;
+}
+
+.resend-btn {
+  color: #3631cc;
+}

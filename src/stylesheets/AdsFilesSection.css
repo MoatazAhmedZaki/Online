@@ -1,0 +1,15 @@
+.AdsFilesSection .downloadfile-btn {
+  border-radius: 10px;
+
+  border: solid 1px #c0c0c0;
+
+  background-color: #eb0732;
+}
+
+.AdsFilesSection .viewfile-btn {
+  border-radius: 10px;
+
+  border: solid 1px #c0c0c0;
+
+  background-color: #3631cc;
+}

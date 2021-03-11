@@ -1,0 +1,39 @@
+.AboutUs-Page{background-color: #f2f4fb; min-height: 80vh;}
+
+
+.AboutUs-Page-card{background-color: #ffffff; text-align: right;}
+
+
+.AboutUs-Page-card h2{  font-size: 18px;
+
+    font-weight: bold;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.89;
+  
+    letter-spacing: normal;
+  
+    text-align: right;
+  
+    color: #444444;}
+
+
+.AboutUs-Page-card p{  font-size: 16px;
+
+    font-weight: normal;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.94;
+  
+    letter-spacing: normal;
+  
+    text-align: right;
+  
+    color: #444444;}
+

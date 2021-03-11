@@ -1,0 +1,16 @@
+.Services .blue-serv-bg {
+  background-color: #dcdbfe;
+  border-radius: 5px;
+}
+
+.Services .carditem {
+  border-radius: 20px;
+
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+
+  background-color: #ffffff;
+}
+
+.Services p {
+  margin: 2px 0px;
+}

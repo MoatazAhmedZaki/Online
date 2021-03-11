@@ -1,0 +1,19 @@
+.display-inline-block div{ display: inline-block;}
+
+ .ads-card .down-btn{background-color: transparent ; color:#3631cc ;  padding-top: 20px; border: none;}
+
+ .ads-card p{  font-size: 14px;
+
+    font-weight: normal;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 3.14;
+  
+    letter-spacing: normal;
+  
+    text-align: right;
+  
+    color: #2d2d2d;}

@@ -1,0 +1,42 @@
+/* .ads-nav{background-color: red;} */
+
+.ads-nav .nav-pills .nav-link {
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.94;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #d4d4d4;
+}
+
+.ads-nav .nav-pills .nav-link.active,
+.ads-nav .nav-pills .show > .nav-link {
+  border-bottom: 1px solid #eb0732;
+  border-radius: unset;
+  background-color: transparent;
+
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.94;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #444444;
+}

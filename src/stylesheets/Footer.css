@@ -1,0 +1,28 @@
+footer {
+  background-color: #3631cc;
+  color: white;
+  text-align: right;
+}
+
+footer h6 {
+  font-weight: 700;
+}
+
+footer p {
+  font-weight: 400;
+
+  /* margin: 0; */
+}
+
+/* footer button {  background-color: #94c748!important; border: none!important;} */
+
+footer .number {
+  font-size: 35px;
+}
+
+footer .small-footer {
+  background-color: #302db4;
+}
+footer .small-footer {
+  margin: 0;
+}

@@ -1,0 +1,8 @@
+@import url(//fonts.googleapis.com/earlyaccess/notokufiarabic.css);
+
+* {
+  box-sizing: border-box;
+}
+.App {
+  font-family: "Noto Kufi Arabic", sans-serif;
+}

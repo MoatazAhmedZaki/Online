@@ -1,0 +1,18 @@
+{
+  "AR": {
+    "HomeLink": "الرئيسية",
+    "AboutLink": "من نحن ",
+    "ContactLink": "اتصل بنا",
+    "PriceLink": "خطط الاسعار ",
+    "AddAds": "أضف إعلان",
+    "Login": "دخول / مستخدم جديد"
+  },
+  "EN": {
+    "HomeLink": " Home",
+    "AboutLink": "About Us",
+    "ContactLink": "Contact Us",
+    "PriceLink": "Price List",
+    "AddAds": "Add Ads",
+    "Login": "Log in / Log up"
+  }
+}

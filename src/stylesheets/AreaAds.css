@@ -1,0 +1,124 @@
+.AreaAds{}
+
+
+  
+  .AreaAds .ads-card {
+    height: 233px;
+    padding: 10px 0px;
+    position: relative;
+  }
+  
+  .AreaAds .ads-card .card-cap {
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    right: 20px;
+
+  }
+  
+
+  .AreaAds .ads-card .card-cap h4 {
+    
+    
+  
+    font-size: 18px;
+
+    font-weight: normal;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.89;
+  
+    letter-spacing: normal;
+  
+    text-align: right;
+  
+    margin: 0;
+    color: #ffffff;
+  }
+  
+
+  
+  .AreaAds .ads-card .card-cap p {
+    
+    font-size: 13px;
+
+    font-weight: 500;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.31;
+  
+    letter-spacing: normal;
+  
+    text-align: right;
+  
+    color: #ffffff;
+  }
+  
+  
+  
+
+  
+.AreaAds .ads-card .card-cap-all {
+    position: absolute;
+    top: 40%;
+    font-size: 22px;
+  
+  
+  
+    text-align: center;
+  
+    color: #ffffff;
+    margin: auto;
+    left: 0;
+    right: 0;
+  }
+
+  
+  .AreaAds .ads-card .card-cap-all h4 {
+    
+    
+  
+    font-size: 18px;
+
+    font-weight: normal;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.89;
+  
+    letter-spacing: normal;
+  
+    text-align: center;
+  
+    margin: 0;
+    color: #ffffff;
+  }
+  
+
+  
+  .AreaAds .ads-card .card-cap-all p {
+    
+    font-size: 13px;
+
+    font-weight: 500;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.31;
+  
+    letter-spacing: normal;
+  
+    text-align: center;
+  
+    color: #ffffff;
+  }

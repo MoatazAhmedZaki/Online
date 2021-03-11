@@ -1,0 +1,124 @@
+.AdsDetailsitem .remove-btn {
+  width: 73px;
+
+  height: 29px;
+
+  border-radius: 29px;
+
+  background-color: #eb0732;
+  text-align: center;
+  color: white;
+}
+
+.AdsDetailsitem .edit-btn {
+  width: 73px;
+
+  height: 29px;
+
+  border-radius: 29px;
+
+  background-color: #3631cc;
+  text-align: center;
+  color: white;
+}
+
+.AdsDetailsitem .add-btn {
+  width: 73px;
+
+  height: 29px;
+
+  border-radius: 29px;
+
+  background-color: #37b72f;
+  text-align: center;
+  color: white;
+}
+
+.AdsDetailsitem .ads-title {
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.06;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #444444;
+}
+
+.AdsDetailsitem .ads-subtitle {
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.06;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #444444;
+}
+.AdsDetailsitem .ads-pargh {
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.56;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #444444;
+}
+
+.AdsDetailsitem .ads-date {
+  font-size: 14px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.93;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #444444;
+}
+
+.AdsDetailsitem .ads-location {
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 2.56;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #2d2d2d;
+}

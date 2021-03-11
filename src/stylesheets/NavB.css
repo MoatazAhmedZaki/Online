@@ -1,0 +1,28 @@
+.navbar-brand {
+  width: 80px;
+}
+
+.navbar-brand img {
+  width: 80px;
+}
+
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: #3631cc;
+}
+
+.navbar-light .add-ads-btn {
+  background-color: #eb0732;
+  color: white !important;
+  border-radius: 20px;
+  text-decoration: none;
+}
+/* 
+.navbar {
+  position: absolute;
+  top: 0;
+  z-index: 200;
+  width: 100%;
+} */

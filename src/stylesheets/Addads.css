@@ -1,0 +1,36 @@
+label.myLabel input[type="file"] {
+  position: absolute;
+  top: -1000px;
+}
+
+/***** Example custom styling *****/
+.myLabel {
+  /* border: 2px solid #AAA;
+    border-radius: 4px;
+    padding: 2px 5px;
+    margin: 2px;
+    background: #DDD;
+    display: inline-block; */
+
+  border-radius: 50%;
+  width: 88px;
+  padding-top: 25px;
+  height: 88px;
+
+  background-color: #dddddd;
+  cursor: pointer;
+  text-align: center !important;
+}
+
+/* .myLabel:hover {
+    background: #CCC;
+}
+.myLabel:active {
+    background: #CCF;
+}
+.myLabel :invalid + span {
+    color: #A44;
+}
+.myLabel :valid + span {
+    color: #4A4;
+} */

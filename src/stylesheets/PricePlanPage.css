@@ -1,0 +1,105 @@
+.PricePlanPage {
+  background-color: #f2f4fb;
+  min-height: 80vh;
+}
+
+.pricePlan-card {
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+
+  border: solid 1px #d4d4d4;
+  border-radius: 10px;
+
+  background-color: #ffffff;
+}
+
+.underline-head-title {
+  border-bottom: 2px solid #eb0732;
+  width: fit-content;
+  margin: auto;
+}
+
+.pricePlan-card .title {
+  font-size: 20px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 0.95;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #323232;
+}
+
+.pricePlan-card h3 {
+  font-size: 13px;
+  width: fit-content;
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.46;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #323232;
+  border: solid 1px #dddddd;
+  padding: 5px 10px;
+  border-radius: 20px;
+  margin: auto;
+}
+
+.display-inline-block div {
+  display: inline-block;
+  text-align: right;
+}
+
+.pricePlan-card .btn {
+  border-radius: unset;
+  background-color: #3631cc;
+}
+
+.plan-price {
+  font-size: 15px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.07;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #323232;
+}
+
+.plan-price span {
+  font-size: 30px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 0.53;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #323232;
+}

@@ -1,0 +1,139 @@
+.ProfilePage {
+  background-color: #f2f4fb;
+  min-height: 80vh;
+}
+
+.ProfilePage .setting-holder {
+  background-color: white;
+}
+
+/*   
+  
+  .ProfilePage i {
+    color: #105a9d;
+  }
+   */
+.ProfilePage .send-btn {
+  background-color: #3631cc;
+}
+
+.setting-holder1 .nav-pills .nav-link {
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.94;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #444444;
+}
+
+.setting-holder1 .nav-pills .nav-link.active,
+.setting-holder1 .nav-pills .show > .nav-link {
+  background-color: #f7f7f7;
+
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.94;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #444444;
+}
+
+.setting-holder1 .nav-pills .nav-link i {
+  color: #444444;
+}
+
+.ProfilePage .media .logout-btn {
+  font-size: 14px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.93;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #bf1e2e;
+  padding: 0;
+  background: transparent;
+  border: none;
+}
+
+.ProfilePage .plan-type {
+  font-size: 16px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.94;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #444444;
+}
+
+.ProfilePage .profile-name {
+  font-size: 18px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.89;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #444444;
+}
+
+.upgd-btn,
+.upgd-btn:hover {
+  cursor: pointer;
+  border-radius: 16px;
+
+  border: solid 1px #dddddd;
+
+  background-color: #eb0732;
+}
+
+.ProfilePage .media {
+  position: relative;
+}
+
+.ProfilePage .media .upload-btn {
+  position: absolute !important;
+  top: 5px;
+  background-color: #3631cc;
+  color: white !important;
+}

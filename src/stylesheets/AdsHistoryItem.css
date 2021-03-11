@@ -1,0 +1,45 @@
+.AdsHistoryItem h2{  font-size: 16px;
+
+    font-weight: normal;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.94;
+  
+    letter-spacing: normal;
+  
+    text-align: right;
+  
+    color: #444444; margin: 0;}
+
+    .AdsHistoryItem p{   font-size: 14px;
+
+        font-weight: normal;
+      
+        font-stretch: normal;
+      
+        font-style: normal;
+      
+        line-height: 1.93;
+      
+        letter-spacing: normal;
+      
+        text-align: right;
+      
+        color: #444444; margin: 0;}
+
+
+
+        .AdsHistoryItem .history-type{  
+            text-align: center;
+            color: white;
+            width: 73px;
+            height: 29px;
+          
+            border-radius: 29px;
+          
+            background-color: #37b72f;
+          
+          }

@@ -1,0 +1,53 @@
+.ContactUs-Page {
+  background-color: #f2f4fb;
+  min-height: 80vh;
+}
+
+.ContactUs-Page-card {
+  background-color: #ffffff;
+  text-align: right;
+}
+
+.ContactUs-Page-card h3 {
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.19;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #444444;
+}
+
+.ContactUs-Page-card p {
+  font-size: 14px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.86;
+
+  letter-spacing: normal;
+
+  text-align: right;
+
+  color: #444444;
+}
+
+.ContactUs-Page-card i {
+  color: #105a9d;
+}
+
+.ContactUs-Page .send-btn {
+  background-color: #3631cc;
+}

@@ -1,0 +1,121 @@
+.AdsCat {
+  background-color: #f8f8f8;
+}
+
+.AdsCat .ads-card {
+  height: 233px;
+  padding: 10px 0px;
+  position: relative;
+}
+
+.AdsCat .ads-card p {
+  position: absolute;
+  top: 40%;
+  font-size: 22px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 2;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #ffffff;
+  margin: auto;
+  left: 0;
+  right: 0;
+}
+
+.AdsCat .AdsCat-btn {
+  width: 184px;
+
+  height: 51px;
+
+  border-radius: 32px;
+
+  background-color: #3631cc;
+}
+
+
+.AdsCat .slick-next:before, .AdsCat  .slick-prev:before {
+  font-size: 40px;
+  line-height: 1;
+  opacity: .75;
+  color: black;
+}
+
+
+/* 
+
+.AdsCat [dir=rtl] .slick-prev {
+  right: 240px;
+
+}
+
+ */
+
+
+ 
+
+  
+ [dir=rtl] .AdsCat  .slick-next {
+  left: -40px;
+  right: auto;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+
+  [dir=rtl] .AdsCat  .slick-prev {
+    right: 5px;
+    left: auto;
+    z-index: 10;
+  }
+  
+  
+  
+  [dir=rtl] .AdsCat  .slick-next {
+    left: -10px;
+    right: auto;
+  }
+
+  
+ .AdsCat  .slick-prev {
+    left: 0px;
+    right: auto;
+    z-index: 10;
+  }
+  
+  
+  
+ .AdsCat  .slick-next {
+    right: 16px;
+    left: auto;
+  }
+  
+  
+
+/* 
+  .AdsCat  .slick-prev {
+    left: 40px;
+    right: auto;
+    z-index: 10;
+  }
+  
+  
+  
+ .AdsCat  .slick-next {
+    left: -10px;
+    right: auto;
+  } */
+  
+  
+
+  
+  } 

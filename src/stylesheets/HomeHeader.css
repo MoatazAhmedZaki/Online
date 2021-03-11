@@ -1,0 +1,69 @@
+.homeHeader .carousel-caption {
+  bottom: 27%;
+}
+
+.homeHeader .carousel-caption h3 {
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.68);
+
+  font-size: 60px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.33;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #ffffff;
+  /* padding: 50px; */
+}
+
+.homeHeader .carousel-caption .homeHeader-btn {
+  background-color: #eb0732;
+  color: white;
+  border-radius: 20px;
+  border: none;
+
+  font-size: 23px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.87;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.homeHeader .carousel-item img {
+  min-height: 74vh;
+}
+
+
+/* @media */
+
+@media only screen and (max-width: 600px) {
+  
+.homeHeader .carousel-caption h3 {
+
+  font-size: 30px;
+
+}
+
+/* .homeHeader .carousel-caption {
+  bottom: 10%;
+} */
+
+
+}
